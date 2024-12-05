@@ -1,0 +1,131 @@
+{
+    "project_name": "Example_Project",
+    "excel_file": "/Users/joonaskauppinen_mrp/Documents/Python_projects/GitHub/Travel_day_calc/Example_Cast.xlsx",
+    "config": {
+        "home_locations": [
+            "Local",
+            "Away",
+            "Helsinki",
+            "Kuopio",
+            "Turku"
+        ],
+        "shooting_periods": [
+            {
+                "Name": "Helsinki",
+                "Location": "Helsinki",
+                "Start Date": "2025-10-01T00:00:00",
+                "End Date": "2025-10-02T00:00:00"
+            },
+            {
+                "Name": "Kuopio",
+                "Location": "Kuopio",
+                "Start Date": "2025-10-06T00:00:00",
+                "End Date": "2025-10-16T00:00:00"
+            },
+            {
+                "Name": "Turku (Studio)",
+                "Location": "Turku",
+                "Start Date": "2025-10-20T00:00:00",
+                "End Date": "2025-11-18T00:00:00"
+            }
+        ],
+        "cast_member_settings": {
+            "BARTENDER": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "CUSTOMER 1": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "DOCTOR": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "EMILY BROWN": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "JAMES JOHNSON": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "JANE SMITH": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "JOHN SMITH": {
+                "include": false,
+                "home_location": "Helsinki"
+            },
+            "LEILA AL-FAROUQ": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "MARIE DUPONT": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "MARY JOHNSON": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "MICHAEL DAVIS": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "NEHA GUPTA": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "OLIVIA WILSON": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "POLICE OFFICER 1": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "RAJESH SHARMA": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "RECEPTIONIST": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "RICHARD ANDERSON": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "ROBERT BROWN": {
+                "include": true,
+                "home_location": "Helsinki"
+            },
+            "SARAH DAVIS": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "SECURITY GUARD": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "SOPHIA WHITE": {
+                "include": false,
+                "home_location": "Turku"
+            },
+            "TEACHER": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "WAITER": {
+                "include": false,
+                "home_location": "Kuopio"
+            },
+            "WILLIAM JONES": {
+                "include": true,
+                "home_location": "Helsinki"
+            }
+        }
+    }
+}
