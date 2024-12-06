@@ -2,6 +2,8 @@
 
 *Note: This code and the readme.md file were created with ChatGPT (version o1-preview or o1-mini). I don’t have prior coding knowledge, and the same bot guided me through navigating GitHub. However, the code appears to work for my purposes.*
 
+*If you decide to use the application now, it is still recommended to verify the calculations yourself. The major tests have not been completed yet, but based on smaller experiments, the calculations appear to be accurate.*
+
 ## Overview
 An application to calculate travel and accommodation needs and budget for cast members based on shooting schedules.
 
